@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ValueSheet : MonoBehaviour {
-    public static string screenProtect = "浚县沙盘.mp4";
+    public static string screenProtect = "项目集锦.mp4";
 
     public static string CultureAndECON = "商业·文化.mp4";
 
