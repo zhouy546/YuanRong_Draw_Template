@@ -7,6 +7,8 @@ Assets/StreamingAssets/
 Assets/StreamingAssets
 Assets/StreamingAssets*
 
+Assets/PostProcessing/Textures
+
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
